@@ -1,0 +1,7 @@
+{
+  "url": "https://selfsea-admin-dev.sidebench.dev/",
+  "admin_username": "admin@selfsea.org",
+  "moderator_username" : "moderator@selfsea.org",
+  "password": "Test@1234",
+  "userNotFound":"checkTester@gmail.com"
+}
